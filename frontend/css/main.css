@@ -150,7 +150,7 @@ iframe {
   margin-top: 15px;
   font-family: Poppins-Regular;
   font-size: 14px;
-  color: #999999;
+  color: #16181b;
   line-height: 1.5;
 }
 
@@ -185,7 +185,7 @@ iframe {
 
 .wrap-login100 {
   width: 680px;
-  background: #fff;
+  background: #ebe7e7;
   border-radius: 10px;
   position: relative;
 }
@@ -203,7 +203,7 @@ iframe {
   display: block;
   font-family: Montserrat-Medium;
   font-size: 39px;
-  color: #555555;
+  color: #16181b;
   line-height: 1.2;
   text-align: center;
 }
@@ -402,7 +402,7 @@ iframe {
   border-radius: 10px;
 
   font-family: Poppins-Medium;
-  font-size: 16px;
+  font-size: 26px;
   color: #fff;
   line-height: 1.2;
 
